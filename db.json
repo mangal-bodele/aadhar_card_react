@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "aadhar": "626151270325",
+      "name": "mangal bodele",
+      "address": "chandrapur",
+      "age": "28",
+      "gender": "male",
+      "id": 1
+    }
+  ]
+}
